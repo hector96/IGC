@@ -1,0 +1,45 @@
+.estilo {
+	width: 40%;
+	height: 405px;
+    border: #A9A9A9 10px groove;
+    border-radius: 10px;
+    background:  #333333;
+}
+.estilo2{
+	color: #FFFFFF;
+	margin-top: 5%;
+	font-size:33px;
+}
+body{
+	background:#2b2b2a;
+}
+table{
+	font-size: 19px;
+	color: #FFFFFF;
+}
+input{
+	background: #E5E2E2;
+	padding: 5px 10px;
+	border: #FFFFFF 2px groove;
+	border-radius:4px;
+}
+.php {
+	width:50%;
+	background: #E5E2E2;
+	padding: 8px 13px;
+	border: #A9A9A9 5px groove;
+	border-radius:4px;
+	text-align: center;
+	font-size:30px;
+	font-family: helvetica; 
+	font-style: italic;
+	margin-top: 20%;
+}
+.boton{
+	background: #FFFFFF;
+	padding: 5px 10px;
+	border: #A9A9A9 5px groove;
+	border-radius:4px;
+	width:110px;
+	font-size:25px;
+}
